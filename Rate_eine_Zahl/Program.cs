@@ -14,6 +14,7 @@ namespace Rate_eine_Zahl
       Console.Title = "Rate eine Zahl";
 
       //Variabelen 
+      //c ist hierbei eine Zählvariabele die angibt, wie viele Versuche man hat
       int eingabe, zuratendezahl, c = 3;
 
       //Einweisung
